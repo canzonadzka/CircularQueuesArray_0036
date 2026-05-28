@@ -72,3 +72,5 @@ class Queues
                 FRONT = FRONT + 1;
         }
     }
+    void display()
+    {
